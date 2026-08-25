@@ -1,0 +1,15 @@
+# Archivos de BlueJ
+*.ctxt
+package.bluej.bak/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de Astah (backup automático)
+*.asta.bak
+*.jude.bak
+~$*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
