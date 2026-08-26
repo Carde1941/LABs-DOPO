@@ -1,0 +1,18 @@
+#BlueJ class context
+#Tue Aug 25 22:58:04 COT 2026
+comment0.target=Song
+comment1.params=title artist genre duration rating
+comment1.target=Song(java.lang.String, java.lang.String, java.lang.String, java.lang.Integer, java.lang.Integer)
+comment10.target=int hashCode()
+comment2.target=java.lang.String getTitle()
+comment3.target=java.lang.String getArtist()
+comment4.target=java.lang.String getGenre()
+comment5.target=java.lang.Integer getDuration()
+comment6.target=java.lang.Integer getRating()
+comment7.params=other
+comment7.target=boolean sameKey(Song)
+comment8.params=obj
+comment8.target=boolean equals(java.lang.Object)
+comment9.params=a b
+comment9.target=boolean equalsIgnoreCase(java.lang.String, java.lang.String)
+numComments=11
