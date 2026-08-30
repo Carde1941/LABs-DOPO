@@ -13,3 +13,5 @@ package.bluej.bak/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+*.lock
