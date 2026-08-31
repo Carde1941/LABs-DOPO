@@ -73,12 +73,13 @@ public class PlaylistTest{
     
     @Test 
     public void shouldFail(){
-        assertFalse(false);
+        assertFalse(true);
     }
     
     @Test
     public void shouldErr(){
-        fail("Debe fallar");
+        int i;
+        i=3/0;
     }
     /**
      * Tears down the test fixture.
